@@ -53,7 +53,3 @@ if ("bromis" in lista):
 	print("Ha aparecido bromis en la lista")
 else: 
 	print('No ha aparecicho')
-
-
-
-
